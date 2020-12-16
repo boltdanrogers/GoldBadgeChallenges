@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadgeChallenges\MenuRepositoryProject\bin\Debug\MenuRepositoryProject.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\MenuRepositoryProject\bin\Debug\MenuRepositoryProject.pdb
+C:\ElevenFiftyProjects\GoldBadgeChallenges\MenuRepositoryProject\obj\Debug\Challenge1Cafe_Repository.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\MenuRepositoryProject\obj\Debug\Challenge1Cafe_Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeChallenges\MenuRepositoryProject\obj\Debug\MenuRepositoryProject.dll
+C:\ElevenFiftyProjects\GoldBadgeChallenges\MenuRepositoryProject\obj\Debug\MenuRepositoryProject.pdb
